@@ -2,7 +2,6 @@
 
 # Start [Download](https://fs4n.github.io/SoundSemo/SoundSome.html)
 
-	https://fs4n.github.io/SoundSemo/SoundSome.html
  
 ![][xkcd-2054]
 
