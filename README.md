@@ -6,7 +6,7 @@
  
 ![][xkcd-2054]
 
-[xkcd-2054]:  https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/218760/ss_8b4221753064610380808ae37b2ca41d9425bb0b.1920x1080.jpg?t=1562008377
+[xkcd-2054]:  https://raw.githubusercontent.com/HonkShefter/sundshefter/refs/heads/main/Screenshot%202025-02-04%20013609.png
 
 
 
